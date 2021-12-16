@@ -30,6 +30,6 @@
     "solc": "^0.4.17",
     "terser": "^5.10.0",
     "truffle-hdwallet-provider": "^1.0.17",
-    "web3": "^1.0.0-beta.26"
+    "web3": "1.2.9"
   }
 }
